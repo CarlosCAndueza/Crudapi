@@ -75,11 +75,11 @@
     color: white;
     &:focus {
       outline: 0;
-      border-color: #1ab188;
+      border-color: #b12e1a;
     }
   }
   .form-submit {
-    background: #1ab188;
+    background: #b12e1a;
     border: none;
     color: white;
     margin-top: 3rem;
@@ -87,7 +87,7 @@
     cursor: pointer;
     transition: background 0.2s;
     &:hover {
-      background: #0b9185;
+      background: #d2d2d2;
     }
   }
   </style>
